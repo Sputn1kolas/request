@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Sputn1kolas/request/issues"
   },
-  "homepage": "https://github.com/Sputn1kolas/request#readme"
+  "homepage": "https://github.com/Sputn1kolas/request#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
 }
